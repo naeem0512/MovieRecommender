@@ -16,7 +16,8 @@ As an aspiring data scientist eager to enter the world of machine learning, I ch
 
 ## Dataset
 
-The dataset used in this project is the MovieLens dataset, which contains user ratings for various movies.
+The dataset used in this project is the [MovieLens](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip) dataset, which contains user ratings for various movies.
+
 
 ## Installation
 
